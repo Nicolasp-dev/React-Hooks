@@ -1,5 +1,5 @@
 # React-Hooks
-Diseño de apuntes tipo Cornell a cerca de los hooks implementados en React.
+Diseño de apuntes siguiendo la metodología de aprendizaje Cornell, implementada sobre los hooks de React.
 
 💻 + ☕ = ❤️
 
