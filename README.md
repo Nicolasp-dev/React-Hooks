@@ -9,7 +9,7 @@ Importante:
 <p></p>
 
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/103202106/174352693-58f09c90-1815-4696-9b90-f63b1446280c.png" alt="Apuntes Conell useState()" width='580px' heigth='600px'/>
+  <img src="https://user-images.githubusercontent.com/103202106/177338938-ead49914-1eb3-4bca-a1c0-9ad372be091d.png" alt="Apuntes Conell useState()" width='580px' heigth='600px'/>
 </div>
 
 ## useEffect
