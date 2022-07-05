@@ -1,9 +1,12 @@
 # React-Hooks
 Diseño de apuntes siguiendo la metodología de aprendizaje Cornell, implementada sobre los hooks de React.
-
-💻 + ☕ = ❤️
+Importante:
+- Implematación unica para componentes de función.
+- Siempre deben ir en el nivel superior del código. 
+- 💻 + ☕ = ❤️
 
 ## useState
+<p></p>
 
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/103202106/174352693-58f09c90-1815-4696-9b90-f63b1446280c.png" alt="Apuntes Conell useState()" width='580px' heigth='600px'/>
