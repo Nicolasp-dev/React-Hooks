@@ -21,7 +21,7 @@ Importante:
 ## 1. useState
 
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/103202106/177338938-ead49914-1eb3-4bca-a1c0-9ad372be091d.png" alt="Apuntes Conell useState()" width='580px' heigth='600px'/>
+  <img src="https://user-images.githubusercontent.com/103202106/185720955-d597b476-ca96-4b27-82cf-79fa0193c6d3.png" alt="Apuntes Conell useState()" width='580px' heigth='600px'/>
 </div>
 
 <br />
@@ -32,7 +32,7 @@ Importante:
 
 ## 2. useEffect
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/103202106/174353593-080d26d7-0304-436b-b222-5c55684e0a10.png" alt="Apuntes Conell useEffect()" width='580px' heigth='600px'/>
+  <img src="https://user-images.githubusercontent.com/103202106/185720999-96a1aaec-08bc-4758-8dfe-ff57dfcba766.png" alt="Apuntes Conell useEffect()" width='580px' heigth='600px'/>
 </div>
 
 <br />
@@ -43,7 +43,7 @@ Importante:
 
 ## 3. useReducer
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/103202106/174353803-704e7796-de4c-4e37-bed8-418fd11209da.png" alt="Apuntes Conell useReducer()" width='580px' heigth='600px'/>
+  <img src="https://user-images.githubusercontent.com/103202106/185721048-b956f99b-986a-49f7-8b76-5ac7e66fba8b.png" alt="Apuntes Conell useReducer()" width='580px' heigth='600px'/>
 </div>
 
 <br />
@@ -54,7 +54,7 @@ Importante:
 
 ## 4. useRef
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/103202106/174353761-b033206e-556c-4e5c-9f9f-8da78aff1939.png" alt="Apuntes Conell useRef()" width='580px' heigth='600px'/>
+  <img src="https://user-images.githubusercontent.com/103202106/185721064-f610f55b-7c4f-4c84-8e51-3658b6a9d616.png" alt="Apuntes Conell useRef()" width='580px' heigth='600px'/>
 </div>
 
 <br />
@@ -64,8 +64,9 @@ Importante:
 ---
 
 ## 5. useMemo
+
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/103202106/174353893-b20b5106-fa95-45cd-94c8-73692de1fca5.png" alt="Apuntes Conell useMemo()" width='580px' heigth='600px'/>
+  <img src="https://user-images.githubusercontent.com/103202106/185721113-f49c4a90-4850-45d1-a9d3-b27f0f06bc5a.png" alt="Apuntes Conell useMemo()" width='580px' heigth='600px'/>
 </div>
 
 <br />
@@ -76,7 +77,7 @@ Importante:
 
 ## 6. useCallback
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/103202106/174353953-2e089739-8292-4fc6-b19e-f6795970c6de.png" alt="Apuntes Conell useCallback()" width='580px' heigth='600px'/>
+  <img src="https://user-images.githubusercontent.com/103202106/185721125-d58426fc-71c1-4bdf-a1b3-869040136cbc.png" alt="Apuntes Conell useCallback()" width='580px' heigth='600px'/>
 </div>
 
 <br />
@@ -84,4 +85,6 @@ Importante:
 **[⬆️ Back to Top](#table-of-contents)**
 
 ---
+
+
 
